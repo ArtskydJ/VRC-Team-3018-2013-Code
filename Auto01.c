@@ -19,7 +19,7 @@ const int auto01[][]={
 {GLPos,	0,		LSPos,	0,		Fwd,	Fwd,	0,		0150,	ENCODSTRA}, //drive forward
 {GLPos,	0,		Up,		0,		0,		0,		0,		0800,	TIMELIMIT}, //scoop up bags in pyramid part 3
 {0,		0,		0,		0,		0,		0,		0,		0,		RESETAUTO}};//Autonomous is done
-
+ 
 /*
 Starts on Left tile pointed toward trough
 
